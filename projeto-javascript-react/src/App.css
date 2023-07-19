@@ -1,0 +1,21 @@
+.App {
+  background-color: white;
+  color: black; 
+
+}
+
+h1 {
+  text-align: center;
+  font-size: 30px;
+  background-color: #d63232;
+
+}
+
+
+h2 {
+  font-weight: bold;
+  text-align: center;
+  font-family: "Dancing Script", cursive; 
+  background-color: #0c7a01;
+
+}
